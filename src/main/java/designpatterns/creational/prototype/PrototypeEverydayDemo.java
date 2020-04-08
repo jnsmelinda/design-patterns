@@ -1,4 +1,4 @@
-package desingpatterns.creational.prototype;
+package designpatterns.creational.prototype;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +10,7 @@ public class PrototypeEverydayDemo {
         String sql = "select * from movies where title = ?";
         List<String> parameters = new ArrayList<>();
         parameters.add("Star wars");
-        Record record = new Record();
+        designpatterns.creational.prototype.Record record = new designpatterns.creational.prototype.Record();
         Statement firstStatement = new Statement(sql, parameters, record);
         System.out.println(firstStatement.getSql());
         System.out.println(firstStatement.getParameters());

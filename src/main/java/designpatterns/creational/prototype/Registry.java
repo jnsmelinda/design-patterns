@@ -1,4 +1,7 @@
-package desingpatterns.creational.prototype;
+package designpatterns.creational.prototype;
+
+import designpatterns.creational.prototype.Item;
+import designpatterns.creational.prototype.Movie;
 
 import java.util.HashMap;
 import java.util.Map;

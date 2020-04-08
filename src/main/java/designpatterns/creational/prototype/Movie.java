@@ -1,6 +1,8 @@
-package desingpatterns.creational.prototype;
+package designpatterns.creational.prototype;
 
-public class Movie extends Item{
+import designpatterns.creational.prototype.Item;
+
+public class Movie extends Item {
 
     private String runTime;
 

@@ -1,6 +1,8 @@
-package desingpatterns.creational.prototype;
+package designpatterns.creational.prototype;
 
-public class Book extends Item{
+import designpatterns.creational.prototype.Item;
+
+public class Book extends Item {
     private int numOfPages;
 
     public int getNumOfPages() {

@@ -1,4 +1,6 @@
-package desingpatterns.creational.prototype;
+package designpatterns.creational.prototype;
+
+import designpatterns.creational.prototype.Movie;
 
 public class PrototypeDemo {
     public static void main(String[] args) {

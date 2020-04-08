@@ -1,4 +1,4 @@
-package desingpatterns.creational.prototype;
+package designpatterns.creational.prototype;
 
 public class Record {
 }

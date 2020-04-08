@@ -1,6 +1,7 @@
-package desingpatterns.creational.prototype;
+package designpatterns.creational.prototype;
 
 import com.google.common.base.Strings;
+import designpatterns.creational.prototype.Record;
 import org.checkerframework.checker.units.qual.C;
 
 import java.util.List;
