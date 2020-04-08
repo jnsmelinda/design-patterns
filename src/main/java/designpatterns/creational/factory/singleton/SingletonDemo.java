@@ -1,7 +1,6 @@
-package designpatterns.creational.singleton;
+package designpatterns.creational.factory.singleton;
 
 import java.io.IOException;
-import java.nio.file.Files;
 
 public class SingletonDemo {
 

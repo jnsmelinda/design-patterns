@@ -1,4 +1,4 @@
-package designpatterns.creational.builder;
+package designpatterns.creational.factory.builder;
 
 public class BuilderLunchOrderDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package designpatterns.creational.singleton;
+package designpatterns.creational.factory.singleton;
 
 public class ImmutableSingleton {
     private static final ImmutableSingleton INSTANCE = new ImmutableSingleton();
