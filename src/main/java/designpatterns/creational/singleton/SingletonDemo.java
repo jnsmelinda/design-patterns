@@ -1,4 +1,4 @@
-package designpatterns.creational.factory.singleton;
+package designpatterns.creational.singleton;
 
 import java.io.IOException;
 

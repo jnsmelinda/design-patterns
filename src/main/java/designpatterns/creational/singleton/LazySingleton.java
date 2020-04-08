@@ -1,4 +1,4 @@
-package designpatterns.creational.factory.singleton;
+package designpatterns.creational.singleton;
 
 public class LazySingleton {
     private static volatile LazySingleton instance = null;

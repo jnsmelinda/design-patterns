@@ -1,4 +1,4 @@
-package designpatterns.creational.factory.builder;
+package designpatterns.creational.builder;
 
 public class LunchOrderBean {
     private String bread;
