@@ -1,7 +1,5 @@
 package designpatterns.structural.bridge.shape2;
 
-import java.awt.*;
-
 public abstract class Shape {
     protected Color color;
 
