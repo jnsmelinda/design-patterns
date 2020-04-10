@@ -8,6 +8,8 @@ repositories {
 }
 
 dependencies {
+    implementation 'org.twitter4j:twitter4j-core:4.0.7'
+
     implementation 'com.google.guava:guava:27.1-jre'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.4.2'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.4.2'
